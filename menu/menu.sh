@@ -64,7 +64,7 @@ BIBlack='\033[1;90m'      # Black
 BIRed='\033[1;91m'        # Red
 BIGreen='\033[1;92m'      # Green
 BIYellow='\033[1;93m'     # Yellow
-BIBlue='\033[1;94m'       # Blue
+BIGreen='\033[1;94m'       # Green
 BIPurple='\033[1;95m'     # Purple
 BICyan='\033[1;96m'       # Cyan
 BIWhite='\033[1;97m'      # White
@@ -75,7 +75,7 @@ IBlack='\033[0;90m'       # Black
 IRed='\033[0;91m'         # Red
 IGreen='\033[0;92m'       # Green
 IYellow='\033[0;93m'      # Yellow
-IBlue='\033[0;94m'        # Blue
+IGreen='\033[0;94m'        # Green
 IPurple='\033[0;95m'      # Purple
 ICyan='\033[0;96m'        # Cyan
 IWhite='\033[0;97m'       # White
@@ -106,7 +106,7 @@ export LANGUAGE='en_US.UTF-8'
 export RED='\033[0;31m'
 export GREEN='\033[0;32m'
 export YELLOW='\033[0;33m'
-export BLUE='\033[0;34m'
+export Green='\033[0;34m'
 export PURPLE='\033[0;35m'
 export CYAN='\033[0;36m'
 export LIGHT='\033[0;37m'
@@ -242,7 +242,7 @@ echo -e "${BICyan} │  ${BICyan}DEVELOPER :  ${BIYellow}BADBUD STOREZ PREMIUM${
 echo -e "${BICyan} └─────────────────────────────────────────────────────┘${NC}"
 echo -e "${BICyan} ┌─────────────────────────────────────────────────────┐${NC}"
 echo -e "${BICyan} │  ${BIYellow}SSH         VMESS           VLESS          TROJAN $NC"
-echo -e "${BICyan} │  ${Blue} $ssh1            $vma               $vla               $tra $NC"
+echo -e "${BICyan} │  ${Green} $ssh1            $vma               $vla               $tra $NC"
 echo -e "${BICyan} └─────────────────────────────────────────────────────┘${NC}"
 echo -e "     ${BICyan} SSH ${NC}: $ressh"" ${BICyan} NGINX ${NC}: $resngx"" ${BICyan}  XRAY ${NC}: $resv2r"" ${BICyan} TROJAN ${NC}: $resv2r"
 echo -e "   ${BICyan}     STUNNEL ${NC}: $resst" "${BICyan} DROPBEAR ${NC}: $resdbr" "${BICyan} SSH-WS ${NC}: $ressshws"

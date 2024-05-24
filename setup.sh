@@ -233,18 +233,6 @@ clear
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green          Install SLOWDNS              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
-clear
-Instal Menu
-function menu(){
-    clear
-    print_install "Memasang Menu Packet"
-    wget ${REPO}menu/menu.zip
-    unzip menu.zip
-    chmod +x menu/*
-    mv menu/* /usr/local/sbin
-    rm -rf menu
-    rm -rf menu.zip
-}
 sleep 2
 clear
 wget -q -O slow.sh https://raw.githubusercontent.com/huutvpn/instalasi/main/slow.sh && chmod +x slow.sh && ./slow.sh

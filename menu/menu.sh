@@ -254,7 +254,7 @@ echo -e "${BICyan} │  ${BICyan}[${BIWhite}04${BICyan}] TROJAN  ${BICyan}[${BIY
 echo -e "${BICyan} │  ${BICyan}[${BIWhite}05${BICyan}] SETING  ${BICyan}[${BIYellow}Menu${BICyan}]${NC}"  "${BICyan}  [${BIWhite}12${BICyan}] BANDWITH        ${BICyan}[${BIYellow}Menu${BICyan}]${NC}" "${BICyan} │${NC}"
 echo -e "${BICyan} │  ${BICyan}[${BIWhite}06${BICyan}] TRIALL  ${BICyan}[${BIYellow}Menu${BICyan}]${NC}"  "${BICyan}  [${BIWhite}13${BICyan}] MENU THEME      ${BICyan}[${BIYellow}Menu${BICyan}]${NC}" "${BICyan} │${NC}"
 echo -e "${BICyan} │  ${BICyan}[${BIWhite}07${BICyan}] BACKUP  ${BICyan}[${BIYellow}Menu${BICyan}]${NC}"  "${BICyan}  [${BIWhite}14${BICyan}] UPDATE SCRIPT   ${BICyan}[${BIYellow}Menu${BICyan}]${NC}" "${BICyan} │${NC}"
-echo -e "${BICyan} │  ${BICyan}[${BIWhite}07${BICyan}] BOT NOTIF  ${BICyan}[${BIYellow}Menu${BICyan}]${NC}" 
+echo -e "${BICyan} │  ${BICyan}[${BIWhite}15${BICyan}] BOT NOTIF  ${BICyan}[${BIYellow}Menu${BICyan}]${NC}" 
 echo -e "${BICyan} └─────────────────────────────────────────────────────┘${NC}"
 echo -e "    ${BICyan}┌───────────────────────────────────────────────┐${NC}"
 echo -e "    ${BICyan}│$NC Version Script : $(cat /opt/.ver) Last Update ${NC}"
@@ -279,6 +279,7 @@ case $opt in
 12) clear ; bw ;;
 13) clear ; menu-theme ;;
 14) clear ; update ;;
+15) clear ; mbot ;;
 0) clear ; menu ;;
 x) exit ;;
 *) echo -e "" ; echo "Press any key to back exit" ; sleep 1 ; exit ;;

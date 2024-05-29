@@ -1,1 +1,211 @@
-echo 'R2l0VXNlcj0iaHV1dHZwbiIKaWYgWyAiJHtFVUlEfSIgLW5lIDAgXTsgdGhlbgplY2hvICJZb3UgbmVlZCB0byBydW4gdGhpcyBzY3JpcHQgYXMgcm9vdCIKZXhpdCAxCmZpCmlmIFsgIiQoc3lzdGVtZC1kZXRlY3QtdmlydCkiID09ICJvcGVudnoiIF07IHRoZW4KZWNobyAiT3BlblZaIGlzIG5vdCBzdXBwb3J0ZWQiCmV4aXQgMQpmaQplY2hvICIiCnZlcnNpb249JChjYXQgL2hvbWUvdmVyKQp2ZXI9JCggY3VybCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi92ZXJzaW9uICkKY2xlYXIKbGluZT0kKGNhdCAvZXRjL2xpbmUpCmJlbG93PSQoY2F0IC9ldGMvYmVsb3cpCmJhY2tfdGV4dD0kKGNhdCAvZXRjL2JhY2spCm51bWJlcj0kKGNhdCAvZXRjL251bWJlcikKYm94PSQoY2F0IC9ldGMvYm94KQpHcmVlbl9mb250X3ByZWZpeD0iXDAzM1szMm0iICYmIFJlZF9mb250X3ByZWZpeD0iXDAzM1szMW0iICYmIEdyZWVuX2JhY2tncm91bmRfcHJlZml4PSJcMDMzWzQyOzM3bSIgJiYgUmVkX2JhY2tncm91bmRfcHJlZml4PSJcMDMzWzQxOzM3bSIgJiYgRm9udF9jb2xvcl9zdWZmaXg9IlwwMzNbMG0iCkluZm8xPSIke0dyZWVuX2ZvbnRfcHJlZml4fSgkdmVyc2lvbikke0ZvbnRfY29sb3Jfc3VmZml4fSIKSW5mbzI9IiR7R3JlZW5fZm9udF9wcmVmaXh9KE9MRCBWRVJTSU9OKSR7Rm9udF9jb2xvcl9zdWZmaXh9IgpFcnJvcj0iVmVyc2lvbiAke0dyZWVuX2ZvbnRfcHJlZml4fVskdmVyXSR7Rm9udF9jb2xvcl9zdWZmaXh9IGF2YWlsYWJsZSR7UmVkX2ZvbnRfcHJlZml4fVtQbGVhc2UgVXBkYXRlXSR7Rm9udF9jb2xvcl9zdWZmaXh9Igp2ZXJzaW9uPSQoY2F0IC9ob21lL3ZlcikKbmV3X3ZlcnNpb249JCggY3VybCBodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi92ZXJzaW9uIHwgZ3JlcCAkdmVyc2lvbiApCmlmIFsgJHZlcnNpb24gPSAkbmV3X3ZlcnNpb24gXTsgdGhlbgpzdHM9IiR7SW5mbzJ9IgplbHNlCnN0cz0iJHtFcnJvcn0iCmZpCmNsZWFyCmVjaG8gIiIKZmlnbGV0ICdVUERBVEUnCmVjaG8gLWUgIiAgIFxlWyRsaW5lLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cZVttIgplY2hvIC1lICIgICBcZVskYmFja190ZXh0ICAgICAgICAgICAgICAgICBcZVszMG1bXGVbJGJveCBDSEVDSyBORVcgVVBEQVRFXGVbMzBtIF0gICAgICAgICAgICAgICAgICAgXGVbbSIKZWNobyAtZSAiICAgXGVbJGxpbmUtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVxlW20iCmVjaG8gLWUgIiAgIFxlWyRiZWxvdyBWVkVSU0lPTiBOT1cgPj4gJEluZm8xIgplY2hvIC1lICIgICBcZVskYmVsb3cgU1NUQVRVUyBVUERBVEUgPj4gJHN0cyIKZWNobyAtZSAiIgplY2hvIC1lICIgICAgICAgXGVbMTszMW1Xb3VsZCB5b3UgbGlrZSB0byBwcm9jZWVkP1xlWzBtIgplY2hvICIiCmVjaG8gLWUgIiAgICAgICAgICAgIFxlWzA7MzJtWyBTZWxlY3QgT3B0aW9uIF1cMDMzWzBtIgplY2hvIC1lICIgICAgICBcZVskbnVtYmVyIFsgMSBdXGVbbSBcZVskYmVsb3cgQ0NoZWNrIFNjcmlwdCBVcGRhdGUgTm93XGVbbSIKZWNobyAtZSAiICAgICAgXGVbJG51bWJlciBbIHggXVxlW20gXGVbJGJlbG93IEJCYWNrIFRvIE1lbnVcZVttIgplY2hvIC1lICIiCmVjaG8gLWUgIiAgIFxlWyRsaW5lLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cZVttIgplY2hvIC1lICJcZVskbGluZSIKcmVhZCAtcCAiUFBsZWFzZSBDaG9vc2UgMSBvciB4IDogIiBvcHRpb24yCmNhc2UgJG9wdGlvbjIgaW4KMSkKdmVyc2lvbj0kKGNhdCAvaG9tZS92ZXIpCm5ld192ZXJzaW9uPSQoIGN1cmwgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vdmVyc2lvbiB8IGdyZXAgJHZlcnNpb24gKQppZiBbICR2ZXJzaW9uID0gJG5ld192ZXJzaW9uIF07IHRoZW4KY2xlYXIKZWNobyAiIgplY2hvIC1lICJcZVsxOzMxbUNoZWNraW5nIE5ldyBWZXJzaW9uLCBQbGVhc2UgV2FpdC4uLiFcZVttIgpzbGVlcCAzCmNsZWFyCmVjaG8gLWUgIlxlWzE7MzFtVXBkYXRlIE5vdCBBdmFpbGFibGVcZVttIgplY2hvICIiCmNsZWFyCnNsZWVwIDEKZWNobyAtZSAiXGVbMTszNm1Zb3UgSGF2ZSBUaGUgTGF0ZXN0IFZlcnNpb25cZVttIgplY2hvIC1lICJcZVsxOzMxbVRoYW5reW91LlxlWzBtIgpzbGVlcCAyCnVwZGF0ZQpmaQpjbGVhcgplY2hvIC1lICJcZVsxOzMxbVVwZGF0ZSBBdmFpbGFibGUgTm93Li5cZVttIgplY2hvIC1lICIiCnNsZWVwIDIKZWNobyAtZSAiXGVbMTszNm1TdGFydCBVcGRhdGUgRm9yIE5ldyBWZXJzaW9uLCBQbGVhc2UgV2FpdC4uXGVbbSIKc2xlZXAgMgpjbGVhcgplY2hvIC1lICJcZVswOzMybUdldHRpbmcgTmV3IFZlcnNpb24gU2NyaXB0Li5cZVswbSIKc2xlZXAgMQplY2hvICIiCmNkIC91c3IvYmluCndnZXQgLU8gcnVuLXVwZGF0ZSAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vdXBkYXRlLnNoIgpjaG1vZCAreCBydW4tdXBkYXRlCmVjaG8gIiIKY2xlYXIKZWNobyAtZSAiXGVbMDszMm1QbGVhc2UgV2FpdC4uLiFcZVswbSIKc2xlZXAgNgpjbGVhcgplY2hvICIiCmVjaG8gLWUgIlxlWzA7MzJtTmV3IFZlcnNpb24gRG93bmxvYWRpbmcgc3RhcnRlZCFcZVswbSIKc2xlZXAgMgpjZCAvdXNyL2Jpbgp3Z2V0IC1xIC1PIC91c3IvYmluL3VzZXJuZXcgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL3NzaC91c2VybmV3LnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL2F1dG8tcmVib290ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi9tZW51L2F1dG8tcmVib290LnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL3Jlc3RhcnQgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL21lbnUvcmVzdGFydC5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi90ZW5kYW5nICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi9zc2gvdGVuZGFuZy5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9jbGVhcmNhY2hlICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi9tZW51L2NsZWFyY2FjaGUuc2giCndnZXQgLXEgLU8gL3Vzci9iaW4vcnVubmluZyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9ydW5uaW5nLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL3NwZWVkdGVzdCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vc3NoL3NwZWVkdGVzdF9jbGkucHkiCndnZXQgLXEgLU8gL3Vzci9iaW4vbWVudS12bGVzcyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9tZW51LXZsZXNzLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL21lbnUtdm1lc3MgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL21lbnUvbWVudS12bWVzcy5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9tZW51LXRyb2phbiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9tZW51LXRyb2phbi5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9tZW51LXNzaCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9tZW51LXNzaC5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9tZW51LWJhY2t1cCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9tZW51LWJhY2t1cC5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9tZW51ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi9tZW51L21lbnUuc2giCndnZXQgLXEgLU8gL3Vzci9iaW4vbWVudTEgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL3RoZW1lL21lbnUxLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL21lbnUyICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi90aGVtZS9tZW51Mi5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9tZW51MyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vdGhlbWUvbWVudTMuc2giCndnZXQgLXEgLU8gL3Vzci9iaW4vbWVudTQgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL3RoZW1lL21lbnU0LnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL21lbnU1ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi90aGVtZS9tZW51NS5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9tZW51LXdlYm1pbiAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9tZW51LXdlYm1pbi5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi94cCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vc3NoL3hwLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL3VwZGF0ZSAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vdXBkYXRlLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL2FkZC1ob3N0ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi9zc2gvYWRkLWhvc3Quc2giCndnZXQgLXEgLU8gL3Vzci9iaW4vY2VydHYycmF5ICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi94cmF5L2NlcnR2MnJheS5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9tZW51LXNldCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9tZW51LXNldC5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9hYm91dCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9hYm91dC5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9tZW51LWJhY2t1cCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9tZW51LWJhY2t1cC5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi90cmlhbCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vc3NoL3RyaWFsLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL3VzZXJuZXcgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL3NzaC91c2VybmV3LnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL2FkZC10ciAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4veHJheS9hZGQtdHIuc2giCndnZXQgLXEgLU8gL3Vzci9iaW4vZGVsLXRyICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi94cmF5L2RlbC10ci5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9jZWstdHIgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL3hyYXkvY2VrLXRyLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL3RyaWFsdHJvamFuICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi94cmF5L3RyaWFsdHJvamFuLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL3JlbmV3LXRyICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi94cmF5L3JlbmV3LXRyLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL2FkZC13cyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4veHJheS9hZGQtd3Muc2giCndnZXQgLXEgLU8gL3Vzci9iaW4vZGVsLXdzICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi94cmF5L2RlbC13cy5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9jZWstd3MgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL3hyYXkvY2VrLXdzLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL3JlbmV3LXdzICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi94cmF5L3JlbmV3LXdzLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL3RyaWFsdm1lc3MgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL3hyYXkvdHJpYWx2bWVzcy5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9hZGQtdmxlc3MgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL3hyYXkvYWRkLXZsZXNzLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL2RlbC12bGVzcyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4veHJheS9kZWwtdmxlc3Muc2giCndnZXQgLXEgLU8gL3Vzci9iaW4vY2VrLXZsZXNzICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi94cmF5L2Nlay12bGVzcy5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi9yZW5ldy12bGVzcyAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4veHJheS9yZW5ldy12bGVzcy5zaCIKd2dldCAtcSAtTyAvdXNyL2Jpbi90cmlhbHZsZXNzICJodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vaHV1dHZwbi9pbnN0YWxhc2kvbWFpbi94cmF5L3RyaWFsdmxlc3Muc2giCndnZXQgLXEgLU8gL3Vzci9iaW4vbWVudS10cmlhbCAiaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vbWVudS9tZW51LXRyaWFsLnNoIgp3Z2V0IC1xIC1PIC91c3IvYmluL21lbnUtdGhlbWUgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9odXV0dnBuL2luc3RhbGFzaS9tYWluL3RoZW1lL21lbnUtdGhlbWUuc2giCmNobW9kICt4IC91c3IvYmluL3VzZXJuZXcKY2htb2QgK3ggL3Vzci9iaW4vYXV0by1yZWJvb3QKY2htb2QgK3ggL3Vzci9iaW4vcmVzdGFydApjaG1vZCAreCAvdXNyL2Jpbi90ZW5kYW5nCmNobW9kICt4IC91c3IvYmluL2NsZWFyY2FjaGUKY2htb2QgK3ggL3Vzci9iaW4vcnVubmluZwpjaG1vZCAreCAvdXNyL2Jpbi9zcGVlZHRlc3QKY2htb2QgK3ggL3Vzci9iaW4vbWVudS12bGVzcwpjaG1vZCAreCAvdXNyL2Jpbi9tZW51LXZtZXNzCmNobW9kICt4IC91c3IvYmluL21lbnUtdGhlbWUKY2htb2QgK3ggL3Vzci9iaW4vbWVudTEKY2htb2QgK3ggL3Vzci9iaW4vbWVudTIKY2htb2QgK3ggL3Vzci9iaW4vbWVudTMKY2htb2QgK3ggL3Vzci9iaW4vbWVudTQKY2htb2QgK3ggL3Vzci9iaW4vbWVudTUKY2htb2QgK3ggL3Vzci9iaW4vbWVudS10cm9qYW4KY2htb2QgK3ggL3Vzci9iaW4vbWVudS1zc2gKY2htb2QgK3ggL3Vzci9iaW4vbWVudS1iYWNrdXAKY2htb2QgK3ggL3Vzci9iaW4vbWVudQpjaG1vZCAreCAvdXNyL2Jpbi9tZW51LXdlYm1pbgpjaG1vZCAreCAvdXNyL2Jpbi94cApjaG1vZCAreCAvdXNyL2Jpbi91cGRhdGUKY2htb2QgK3ggL3Vzci9iaW4vYWRkLWhvc3QKY2htb2QgK3ggL3Vzci9iaW4vY2VydHYycmF5CmNobW9kICt4IC91c3IvYmluL21lbnUtc2V0CmNobW9kICt4IC91c3IvYmluL2Fib3V0CmNobW9kICt4IC91c3IvYmluL2FkZDQKY2htb2QgK3ggL3Vzci9iaW4vbWVudS1iYWNrdXAKY2htb2QgK3ggL3Vzci9iaW4vdHJpYWwKY2htb2QgK3ggL3Vzci9iaW4vdXNlcm5ldwpjaG1vZCAreCAvdXNyL2Jpbi9hZGQtdHIKY2htb2QgK3ggL3Vzci9iaW4vZGVsLXRyCmNobW9kICt4IC91c3IvYmluL2Nlay10cgpjaG1vZCAreCAvdXNyL2Jpbi90cmlhbHRyb2phbgpjaG1vZCAreCAvdXNyL2Jpbi9yZW5ldy10cgpjaG1vZCAreCAvdXNyL2Jpbi9hZGQtd3MKY2htb2QgK3ggL3Vzci9iaW4vZGVsLXdzCmNobW9kICt4IC91c3IvYmluL2Nlay13cwpjaG1vZCAreCAvdXNyL2Jpbi9yZW5ldy13cwpjaG1vZCAreCAvdXNyL2Jpbi90cmlhbHZtZXNzCmNobW9kICt4IC91c3IvYmluL2FkZC12bGVzcwpjaG1vZCAreCAvdXNyL2Jpbi9kZWwtdmxlc3MKY2htb2QgK3ggL3Vzci9iaW4vY2VrLXZsZXNzCmNobW9kICt4IC91c3IvYmluL3JlbmV3LXZsZXNzCmNobW9kICt4IC91c3IvYmluL3RyaWFsdmxlc3MKY2htb2QgK3ggL3Vzci9iaW4vbWVudS10cmlhbApjbGVhcgplY2hvIC1lICIiCmVjaG8gLWUgIlxlWzA7MzJtRG93bmxvYWRlZCBzdWNjZXNzZnVsbHkhXGVbMG0iCmVjaG8gIiIKdmVyPSQoIGN1cmwgaHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2h1dXR2cG4vaW5zdGFsYXNpL21haW4vdmVyc2lvbiApCnNsZWVwIDEKZWNobyAtZSAiXGVbMDszMm1QYXRjaGluZyBOZXcgVXBkYXRlLCBQbGVhc2UgV2FpdC4uLlxlWzBtIgplY2hvICIiCnNsZWVwIDIKZWNobyAtZSAiXGVbMDszMm1QYXRjaGluZy4uLiBPSyFcZVswbSIKc2xlZXAgMQplY2hvICIiCmVjaG8gLWUgIlxlWzA7MzJtU3VjY2VzIFVwZGF0ZSBTY3JpcHQgRm9yIE5ldyBWZXJzaW9uXGVbMG0iCmNkCmVjaG8gIiR2ZXIiID4gL2hvbWUvdmVyCnJtIC1mIHVwZGF0ZS5zaApjbGVhcgplY2hvICIiCmVjaG8gLWUgIlwwMzNbMDszNG0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXDAzM1swbSIKZWNobyAtZSAiXEVbNDQ7MTszOW0gICAgICAgICAgICBTQ1JJUFQgVVBEQVRFRCAgICAgICAgICAgICAgXEVbMG0iCmVjaG8gLWUgIlwwMzNbMDszNG0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXDAzM1swbSIKZWNobyAiIgpyZWFkIC1uIDEgLXMgLXIgLXAgIlByZXNzIGFueSBrZXkgdG8gYmFjayBvbiBtZW51IgptZW51Cjs7CngpCmNsZWFyCmVjaG8gLWUgIiIKcmVhZCAtbiAxIC1zIC1yIC1wICJQcmVzcyBhbnkga2V5IHRvIGJhY2sgb24gbWVudSIKbWVudQo7Owplc2FjCg==' | base64 -d | sh
+GitUser="huutvpn"
+if [ "${EUID}" -ne 0 ]; then
+echo "You need to run this script as root"
+exit 1
+fi
+if [ "$(systemd-detect-virt)" == "openvz" ]; then
+echo "OpenVZ is not supported"
+exit 1
+fi
+echo ""
+version=$(cat /home/ver)
+ver=$( curl https://raw.githubusercontent.com/huutvpn/instalasi/main/version )
+clear
+line=$(cat /etc/line)
+below=$(cat /etc/below)
+back_text=$(cat /etc/back)
+number=$(cat /etc/number)
+box=$(cat /etc/box)
+Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
+Info1="${Green_font_prefix}($version)${Font_color_suffix}"
+Info2="${Green_font_prefix}(OLD VERSION)${Font_color_suffix}"
+Error="Version ${Green_font_prefix}[$ver]${Font_color_suffix} available${Red_font_prefix}[Please Update]${Font_color_suffix}"
+version=$(cat /home/ver)
+new_version=$( curl https://raw.githubusercontent.com/huutvpn/instalasi/main/version | grep $version )
+if [ $version = $new_version ]; then
+sts="${Info2}"
+else
+sts="${Error}"
+fi
+clear
+echo ""
+figlet 'UPDATE'
+echo -e "   \e[$line--------------------------------------------------------\e[m"
+echo -e "   \e[$back_text                 \e[30m[\e[$box CHECK NEW UPDATE\e[30m ]                   \e[m"
+echo -e "   \e[$line--------------------------------------------------------\e[m"
+echo -e "   \e[$below VVERSION NOW >> $Info1"
+echo -e "   \e[$below SSTATUS UPDATE >> $sts"
+echo -e ""
+echo -e "       \e[1;31mWould you like to proceed?\e[0m"
+echo ""
+echo -e "            \e[0;32m[ Select Option ]\033[0m"
+echo -e "      \e[$number [ 1 ]\e[m \e[$below CCheck Script Update Now\e[m"
+echo -e "      \e[$number [ x ]\e[m \e[$below BBack To Menu\e[m"
+echo -e ""
+echo -e "   \e[$line--------------------------------------------------------\e[m"
+echo -e "\e[$line"
+read -p "PPlease Choose 1 or x : " option2
+case $option2 in
+1)
+version=$(cat /home/ver)
+new_version=$( curl https://raw.githubusercontent.com/huutvpn/instalasi/main/version | grep $version )
+if [ $version = $new_version ]; then
+clear
+echo ""
+echo -e "\e[1;31mChecking New Version, Please Wait...!\e[m"
+sleep 3
+clear
+echo -e "\e[1;31mUpdate Not Available\e[m"
+echo ""
+clear
+sleep 1
+echo -e "\e[1;36mYou Have The Latest Version\e[m"
+echo -e "\e[1;31mThankyou.\e[0m"
+sleep 2
+update
+fi
+clear
+echo -e "\e[1;31mUpdate Available Now..\e[m"
+echo -e ""
+sleep 2
+echo -e "\e[1;36mStart Update For New Version, Please Wait..\e[m"
+sleep 2
+clear
+echo -e "\e[0;32mGetting New Version Script..\e[0m"
+sleep 1
+echo ""
+cd /usr/bin
+wget -O run-update "https://raw.githubusercontent.com/huutvpn/instalasi/main/update.sh"
+chmod +x run-update
+echo ""
+clear
+echo -e "\e[0;32mPlease Wait...!\e[0m"
+sleep 6
+clear
+echo ""
+echo -e "\e[0;32mNew Version Downloading started!\e[0m"
+sleep 2
+cd /usr/bin
+wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/huutvpn/instalasi/main/ssh/usernew.sh"
+wget -q -O /usr/bin/auto-reboot "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/auto-reboot.sh"
+wget -q -O /usr/bin/restart "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/restart.sh"
+wget -q -O /usr/bin/tendang "https://raw.githubusercontent.com/huutvpn/instalasi/main/ssh/tendang.sh"
+wget -q -O /usr/bin/clearcache "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/clearcache.sh"
+wget -q -O /usr/bin/running "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/running.sh"
+wget -q -O /usr/bin/speedtest "https://raw.githubusercontent.com/huutvpn/instalasi/main/ssh/speedtest_cli.py"
+wget -q -O /usr/bin/menu-vless "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu-vless.sh"
+wget -q -O /usr/bin/menu-vmess "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu-vmess.sh"
+wget -q -O /usr/bin/menu-trojan "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu-trojan.sh"
+wget -q -O /usr/bin/menu-ssh "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu-ssh.sh"
+wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu-backup.sh"
+wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu.sh"
+wget -q -O /usr/bin/menu1 "https://raw.githubusercontent.com/huutvpn/instalasi/main/theme/menu1.sh"
+wget -q -O /usr/bin/menu2 "https://raw.githubusercontent.com/huutvpn/instalasi/main/theme/menu2.sh"
+wget -q -O /usr/bin/menu3 "https://raw.githubusercontent.com/huutvpn/instalasi/main/theme/menu3.sh"
+wget -q -O /usr/bin/menu4 "https://raw.githubusercontent.com/huutvpn/instalasi/main/theme/menu4.sh"
+wget -q -O /usr/bin/menu5 "https://raw.githubusercontent.com/huutvpn/instalasi/main/theme/menu5.sh"
+wget -q -O /usr/bin/menu-webmin "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu-webmin.sh"
+wget -q -O /usr/bin/xp "https://raw.githubusercontent.com/huutvpn/instalasi/main/ssh/xp.sh"
+wget -q -O /usr/bin/update "https://raw.githubusercontent.com/huutvpn/instalasi/main/update.sh"
+wget -q -O /usr/bin/add-host "https://raw.githubusercontent.com/huutvpn/instalasi/main/ssh/add-host.sh"
+wget -q -O /usr/bin/certv2ray "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/certv2ray.sh"
+wget -q -O /usr/bin/menu-set "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu-set.sh"
+wget -q -O /usr/bin/about "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/about.sh"
+wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu-backup.sh"
+wget -q -O /usr/bin/trial "https://raw.githubusercontent.com/huutvpn/instalasi/main/ssh/trial.sh"
+wget -q -O /usr/bin/usernew "https://raw.githubusercontent.com/huutvpn/instalasi/main/ssh/usernew.sh"
+wget -q -O /usr/bin/add-tr "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/add-tr.sh"
+wget -q -O /usr/bin/del-tr "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/del-tr.sh"
+wget -q -O /usr/bin/cek-tr "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/cek-tr.sh"
+wget -q -O /usr/bin/trialtrojan "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/trialtrojan.sh"
+wget -q -O /usr/bin/renew-tr "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/renew-tr.sh"
+wget -q -O /usr/bin/add-ws "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/add-ws.sh"
+wget -q -O /usr/bin/del-ws "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/del-ws.sh"
+wget -q -O /usr/bin/cek-ws "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/cek-ws.sh"
+wget -q -O /usr/bin/renew-ws "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/renew-ws.sh"
+wget -q -O /usr/bin/trialvmess "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/trialvmess.sh"
+wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/add-vless.sh"
+wget -q -O /usr/bin/del-vless "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/del-vless.sh"
+wget -q -O /usr/bin/cek-vless "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/cek-vless.sh"
+wget -q -O /usr/bin/renew-vless "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/renew-vless.sh"
+wget -q -O /usr/bin/trialvless "https://raw.githubusercontent.com/huutvpn/instalasi/main/xray/trialvless.sh"
+wget -q -O /usr/bin/menu-trial "https://raw.githubusercontent.com/huutvpn/instalasi/main/menu/menu-trial.sh"
+wget -q -O /usr/bin/menu-theme "https://raw.githubusercontent.com/huutvpn/instalasi/main/theme/menu-theme.sh"
+chmod +x /usr/bin/usernew
+chmod +x /usr/bin/auto-reboot
+chmod +x /usr/bin/restart
+chmod +x /usr/bin/tendang
+chmod +x /usr/bin/clearcache
+chmod +x /usr/bin/running
+chmod +x /usr/bin/speedtest
+chmod +x /usr/bin/menu-vless
+chmod +x /usr/bin/menu-vmess
+chmod +x /usr/bin/menu-theme
+chmod +x /usr/bin/menu1
+chmod +x /usr/bin/menu2
+chmod +x /usr/bin/menu3
+chmod +x /usr/bin/menu4
+chmod +x /usr/bin/menu5
+chmod +x /usr/bin/menu-trojan
+chmod +x /usr/bin/menu-ssh
+chmod +x /usr/bin/menu-backup
+chmod +x /usr/bin/menu
+chmod +x /usr/bin/menu-webmin
+chmod +x /usr/bin/xp
+chmod +x /usr/bin/update
+chmod +x /usr/bin/add-host
+chmod +x /usr/bin/certv2ray
+chmod +x /usr/bin/menu-set
+chmod +x /usr/bin/about
+chmod +x /usr/bin/add4
+chmod +x /usr/bin/menu-backup
+chmod +x /usr/bin/trial
+chmod +x /usr/bin/usernew
+chmod +x /usr/bin/add-tr
+chmod +x /usr/bin/del-tr
+chmod +x /usr/bin/cek-tr
+chmod +x /usr/bin/trialtrojan
+chmod +x /usr/bin/renew-tr
+chmod +x /usr/bin/add-ws
+chmod +x /usr/bin/del-ws
+chmod +x /usr/bin/cek-ws
+chmod +x /usr/bin/renew-ws
+chmod +x /usr/bin/trialvmess
+chmod +x /usr/bin/add-vless
+chmod +x /usr/bin/del-vless
+chmod +x /usr/bin/cek-vless
+chmod +x /usr/bin/renew-vless
+chmod +x /usr/bin/trialvless
+chmod +x /usr/bin/menu-trial
+clear
+echo -e ""
+echo -e "\e[0;32mDownloaded successfully!\e[0m"
+echo ""
+ver=$( curl https://raw.githubusercontent.com/huutvpn/instalasi/main/version )
+sleep 1
+echo -e "\e[0;32mPatching New Update, Please Wait...\e[0m"
+echo ""
+sleep 2
+echo -e "\e[0;32mPatching... OK!\e[0m"
+sleep 1
+echo ""
+echo -e "\e[0;32mSucces Update Script For New Version\e[0m"
+cd
+echo "$ver" > /home/ver
+rm -f update.sh
+clear
+echo ""
+echo -e "\033[0;34m----------------------------------------\033[0m"
+echo -e "\E[44;1;39m            SCRIPT UPDATED              \E[0m"
+echo -e "\033[0;34m----------------------------------------\033[0m"
+echo ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+x)
+clear
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+esac

